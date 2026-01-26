@@ -1,0 +1,9 @@
+MEOW(Mid-term Equities Offline Workshop)
+
+Requirements:
+
+1. Python >= 3.8
+
+To run the example code:
+    -- cd <project directory>
+    -- python3 meow.py
