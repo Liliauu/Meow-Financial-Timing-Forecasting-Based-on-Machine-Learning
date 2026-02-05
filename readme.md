@@ -67,18 +67,6 @@ engine.fit(20230601, 20231130)
 engine.eval(20231201, 20231229)
 ```
 
-## Features
-
-The system generates technical and microstructure features including:
-
-- Order book imbalance
-- Trade imbalance
-- Lagged returns
-- RSI, MACD, Bollinger Bands
-- Volatility and volume ratios
-
-Target variable: `fret12`
-Prediction output: `forecast`
 
 ## Models
 
@@ -96,4 +84,5 @@ Performance metrics:
 ## Logging
 
 Custom logger with timestamp and file-line tracking is provided in `log.py`.
+
 
